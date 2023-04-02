@@ -215,6 +215,14 @@ body {
     border-radius: 0.4rem;
     box-shadow: 1px 1px 3px rgba(135, 206, 250, 0.4);
 }
+
+.menu .row .content .cta3:hover {
+    color: #fd0000;
+}
+.menu .row .content .cta2:hover {
+    color: #fd0000;
+}
+
 .menu .row .content p {
     margin-top: 4rem;
     margin-bottom: 0.8rem;
